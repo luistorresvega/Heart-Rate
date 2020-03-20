@@ -1,0 +1,32 @@
+
+TAREAS: 
+	1. Actualizar su repositorio remoto con "git pull" desde el CMD o la terminal Linux
+	2. Cargar sus tablas de revisión del estado del arte, preferiblemente en .PDF o .PNG dentro de los archivos del repositorio.
+	3. Leer y completar el archivo README-español.md en español.
+	4. Completar el README.md pero en inglés.
+	5. Cargar los cambios con "git add ."+"git commit -m 'Comentario del ejercicio'"+"git push".
+
+#################### A tener en cuenta ####################
+
+Bitacora de un experimento o actividad exploratoria:
+	1. Herramientas de hardware & Software
+	2. ¿Cuál es el objetivo del experimento?
+	3. ¿Cuál es el comportamiento obtenido?
+	4. (Opcional) ¿Qué recomienda o sugiere cambiar?
+
+#################### Ayudas ####################
+
+Moverse al directorio dentro del CMD
+	cd "Nombre del Repositorio"
+	
+Verificar y descargar los avances del resto del equipo
+	git pull
+
+Añadir avances al repositorio desde su computadora:
+	git add .
+
+Comentar el avanze añadido con respecto a lo logrado:
+	git commit -m "Comentario"
+
+Cargar el anance al repositorio en internet
+	git push
